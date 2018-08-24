@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:viewportWidth="500"
+    android:viewportHeight="500"
+    android:width="60dp"
+    android:height="60dp">
+    <path
+        android:pathData="M40 426C21 417 20 408 20 255 20 143 24 90 32 82 45 69 433 64 464 76c14 5 16 30 16 176 0 153 -2 170 -17 174 -35 9 -403 9 -423 0zM458 256C460 143 457 105 448 98 433 89 80 87 56 96c-14 5 -16 28 -16 153 0 81 3 151 7 155 4 3 97 5 207 4l201 -3 3 -149z"
+        android:fillColor="#ffffff" />
+    <path
+        android:pathData="M94 265c-7 -29 10 -55 36 -55 24 0 42 24 38 52 -2 18 -10 24 -35 26 -28 3 -33 -1 -39 -23z"
+        android:fillColor="#ffffff" />
+    <path
+        android:pathData="M210 249c0 -38 1 -40 28 -37 24 3 27 7 29 41 1 39 -5 45 -25 25 -9 -9 -12 -9 -12 0 0 7 -4 12 -10 12 -5 0 -10 -18 -10 -41z"
+        android:fillColor="#ffffff" />
+    <path
+        android:pathData="M284 276c-12 -32 0 -61 29 -64 30 -4 38 14 10 21 -17 4 -17 5 0 6 9 0 17 5 17 10 0 5 -8 12 -17 14 -17 4 -17 5 0 6 27 2 20 21 -8 21 -14 0 -28 -6 -31 -14z"
+        android:fillColor="#ffffff" />
+    <path
+        android:pathData="M357 284c-12 -12 -8 -51 8 -64 15 -13 55 -5 55 11 0 6 -10 9 -22 7 -15 -2 -23 2 -23 12 0 10 8 14 24 12 16 -3 22 1 19 10 -5 14 -49 23 -61 12z"
+        android:fillColor="#ffffff" />
+</vector>
